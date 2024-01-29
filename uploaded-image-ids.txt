@@ -1,0 +1,3 @@
+./images/561014/original/
+./images/561015/original/
+./images/561013/original/
